@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d1a1e9a60a0991705af54eef",
+  "owner": "kcmsskxse",
+  "repo": "page-cc23b39437471f2dab93ce67",
+  "title": "快银",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cc23b39437471f2dab93ce67",
+      "a": "快银",
+      "b": "稳定全球clash加速器",
+      "entity": "快银",
+      "brand": "快银",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "48f4d9772db4c11a4a74045cca1dd3609345dfbc42de47277e15b25c9556f944",
+      "content": {
+        "primary_entity": "快银",
+        "keyword1": "快银",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，按客户端文档完成订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选择适合设备数量的快银套餐，即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_DESCRIPTION": "，提供从基础到团队的多档套餐，流量、设备数与线路各有侧重。入门用户可选基础版，每月 100GB 流量支持 3 台设备；常用多设备或看重流媒体与游戏线路，旗舰版每月 300GB 流量支持 5 台设备；团队场景可选团队版，每月 1000GB 流量支持 20 台设备。按年付可享对应年费方案，订阅后依客户端指引导入配置即可。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度快速了解。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台，团队版每月 1000GB 支持 20 台。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TEXT_3": "每档套餐均提供月付与年付方案，按年付对应价格更低，可按使用时长灵活选择。",
+          "AI_FEATURE_TITLE_1": "套餐按流量与设备分档",
+          "AI_FEATURE_TITLE_2": "线路与解锁各有侧重",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成配置的三步。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "快银提供多档订阅套餐，覆盖个人到团队场景，流量、设备数量与线路均按档位区分。选择合适套餐后，按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备，年付 ¥150；旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线与流媒体解锁，年付 ¥350；团队版每月 1000GB 流量、20 台设备，年付 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数量和线路需求，选定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端类型是否匹配。",
+          "AI_STEP_TEXT_3": "按照对应客户端的订阅配置文档导入订阅，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "快银多档订阅",
+          "AI_FAQ_ANSWER_1": "快银目前有基础版、旗舰版和团队版。基础版每月 15 元含 100GB 流量，旗舰版每月 35 元含 300GB 流量，团队版每月 85 元含 1000GB 流量，按年付均有优惠。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。可在客户端中查看当前在线设备数，需要更多设备时升级到更高套餐即可。",
+          "AI_FAQ_ANSWER_3": "通常按设备系统选择客户端即可，例如桌面系统与移动系统各有对应版本。导入订阅链接后，按客户端文档完成代理模式与路由设置。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算。基础版按年付 150 元，旗舰版 350 元，团队版 850 元，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_5": "根据设备数量和流量需求选择。个人使用选基础版或旗舰版，团队多人协作或需要定制路由时，团队版更合适。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "快银有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "怎样选择适合自己的套餐？",
+          "AI_FAQ_TITLE": "常见使用问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zdshrhh.cn",
+    "host": "zdshrhh.cn"
+  },
+  "file_hashes": {
+    "index.html": "17f0e198d6dd7b20c1e3a9bd6fcb1085b598a37dbe1bb9908d1af7d6c008e2dc",
+    "sitemap.xml": "4aba1e4a54deff0b20bcca4dd70b6a5b7e00a04ee09d7f1e87d436c34284d4b6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fe5db08092bd94fea27ca6656191e39f06a73ea43401ba3f25102c8757e2d6c4",
+    "robots.txt": "d4bbfbf346e02ac71a19680f1fb82a77ba312c3a6866f6fdccbfea0a71b8d696",
+    "10f8e4863b68069854f5dac2a44158a3.txt": "27ec7b975c4fbb564ec27801f2998a2ef34865eefb1e74678de6f532582adf59"
+  },
+  "revision": "59158ae2c91c267ea17649321c61b1dc54a9f24e61865c10a528ca5eed8b50a1"
+}
